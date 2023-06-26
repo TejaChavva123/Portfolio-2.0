@@ -17,7 +17,7 @@ const About = () => {
             <div class="card">
                 <div class="card-body">
                         {/* <h2 class="title">About</h2> */}
-                    {/* <div id="content">
+                    <div id="content">
                         <ul class="timeline">
                             <li class="event" data-date="2020-present">
                                 <h3>Bachelor of Technology</h3>
@@ -34,8 +34,8 @@ const About = () => {
                                 <p>Studied in Sasi English Medium High School, Velivennu, AP.</p>
                                 <p>CGPA: 10</p>
                             </li>
-                        </ul> */}
-                    {/* </div> */}
+                        </ul> 
+                     </div> 
                 </div>
             </div>
         </div>
